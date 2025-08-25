@@ -250,7 +250,7 @@ export default function Home() {
           href="https://csssociety.net/?page_id=37"
           className="inline-block bg-gradient-to-r from-red-500 to-blue-500 text-white px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
         >
-          See what we've been up to
+          See what we&apos;ve been up to
         </a>
       </section>
 

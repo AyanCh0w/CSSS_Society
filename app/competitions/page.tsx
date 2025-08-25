@@ -121,7 +121,7 @@ export default function Competitions() {
             </div>
             <div className="flex items-center space-x-2">
               <MapPin className="w-5 h-5" />
-              <span>Maryland's 8th Congressional District</span>
+              <span>Maryland&apos;s 8th Congressional District</span>
             </div>
             <div className="flex items-center space-x-2">
               <Users className="w-5 h-5" />
