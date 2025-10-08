@@ -92,7 +92,9 @@ export default function Home() {
         <div className="grid md:grid-cols-3 gap-8">
           <div className="text-center p-6 border border-gray-200 rounded-lg bg-white/50 backdrop-blur-sm">
             <h3 className="text-2xl font-bold text-gray-800 mb-2">Monday</h3>
-            <p className="text-gray-600">We meet every other Monday</p>
+            <p className="text-gray-600">
+              We meet every first and third Monday
+            </p>
           </div>
           <div className="text-center p-6 border border-gray-200 rounded-lg bg-white/50 backdrop-blur-sm">
             <h3 className="text-2xl font-bold text-gray-800 mb-2">Room 105</h3>
